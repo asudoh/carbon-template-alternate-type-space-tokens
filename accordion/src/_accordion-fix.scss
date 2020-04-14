@@ -1,0 +1,16 @@
+//
+// Copyright IBM Corp. 2020
+//
+// This source code is licensed under the Apache-2.0 license found in the
+// LICENSE file in the root directory of this source tree.
+//
+
+.#{$prefix}--accordion__heading {
+  padding: #{$spacing-02 + $spacing-03 / 2} 0;
+}
+
+.#{$prefix}--accordion__arrow {
+  width: auto;
+  height: auto;
+  flex: none;
+}
